@@ -16,7 +16,7 @@ Variables that you can play with:
 
 **This equation:**
 
-![alt text](https://github.com/mattrltrent/integral/blob/master/1.png?raw=true)
+![Screenshot](assets/1.png)
 
 **is entered as this in the code:**
 

@@ -16,7 +16,7 @@ Variables that you can play with:
 
 **This equation:**
 
-![Screenshot](assets/1.png)
+![Screenshot](assets/1.PNG)
 
 **is entered as this in the code:**
 

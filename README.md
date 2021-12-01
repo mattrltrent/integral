@@ -10,10 +10,26 @@ Variables that you can play with:
 * *graph_y_upper_lim* is the upper limit of the displayed graph.
 * *graph_y_lower_lim* is the lower limit of the displayed graph.
 * *graph_thickness* is how thick the displayed graph is.
-* Last, you have to manually enter in the mathematical function in the python function called *f* as a return.
+* **Last, you have to manually enter in the mathematical function in the python function called *f* as a return.**
 
 ## Example 1
 
-## Example 2
+**This equation:**
 
-## Example 3
+![Equation](/i/1.png)
+
+**is entered as this in the code:**
+
+![Code equation](/i/2.png)
+
+**Then the variables are adjusted in the code as follows:**
+
+![Adjusted variables](/i/3.png)
+
+**Then the integral is solved and printed to the console like this:**
+
+![Console values](/i/4.png)
+
+**Then a graph pops up like this:**
+
+![Displayed graph](/i/5.png)

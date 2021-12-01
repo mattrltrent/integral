@@ -16,20 +16,20 @@ Variables that you can play with:
 
 **This equation:**
 
-![Screenshot](assets/1.PNG)
+![Math equation](assets/1.PNG)
 
 **is entered as this in the code:**
 
-![Code equation](/i/2.png)
+![Code equation](assets/2.PNG)
 
 **Then the variables are adjusted in the code as follows:**
 
-![Adjusted variables](/i/3.png)
+![Adjusted variables](assets/3.PNG)
 
 **Then the integral is solved and printed to the console like this:**
 
-![Console values](/i/4.png)
+![Console values](assets/4.PNG)
 
 **Then a graph pops up like this:**
 
-![Displayed graph](/i/5.png)
+![Displayed graph](assets/5.PNG)

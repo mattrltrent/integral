@@ -12,11 +12,11 @@ Variables that you can play with:
 * *graph_thickness* is how thick the displayed graph is.
 * **Last, you have to manually enter in the mathematical function in the python function called *f* as a return.**
 
-## Example 1
+## Example
 
 **This equation:**
 
-![Equation](/i/1.png)
+![alt text](https://github.com/mattrltrent/integral/blob/master/1.png?raw=true)
 
 **is entered as this in the code:**
 
